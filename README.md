@@ -11,4 +11,4 @@ The command above will preview the files to be removed in the current path (a di
 
 `python mem_cleaner.py . -e`
 
-No guarantee of any kind is provided: the user is fully responsible for ensuring that the script does not delete unwanted files.
+No guarantee of any kind is provided: the user is fully responsible for ensuring that the script does not carry out unintended deletions.
